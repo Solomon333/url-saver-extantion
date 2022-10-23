@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads trucker",
+    "action": {
+        "default_popup": "chromeExtansion.html",
+        "default_icon" : "icon.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
