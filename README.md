@@ -1,2 +1,5 @@
-# chromeExtension
-extension for chrome that saves url's
+SaveURL
+
+- let user save his favorite url tabs.
+- chrome extension
+
