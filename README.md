@@ -1,5 +1,5 @@
 SaveURL
 
-- user can save favorite URL tabs.
-- chrome extension
+- A chrome extension that allow user to save favorite URL tabs.
+
 
