@@ -1,5 +1,4 @@
 URL Saver
-- chrome extension
--  allow user to save  URL tabs
+- chrome extensionallow user to save  URL tabs
 
 
